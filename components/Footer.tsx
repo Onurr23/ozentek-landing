@@ -26,9 +26,9 @@ export default function Footer() {
           <Image
             src="/ozentek-logo-cropped.png"
             alt="Özentek Güç Sistemleri"
-            width={43}
-            height={52}
-            style={{ height: 52, width: "auto", maxWidth: 140, background: "#fff", padding: 4, borderRadius: 3 }}
+            width={80}
+            height={80}
+            style={{ width: 80, height: 80, objectFit: "contain" }}
           />
           <p
             style={{

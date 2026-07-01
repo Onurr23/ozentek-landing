@@ -1,13 +1,6 @@
 import Image from "next/image";
 
-const photos = [
-  { src: "/ozentek-referans.jpeg", alt: "Özentek saha servisi referans" },
-  null,
-  null,
-  null,
-  null,
-  null,
-];
+const photos = [null, null, null, null, null, null];
 
 export default function ReferencesSection() {
   return (
