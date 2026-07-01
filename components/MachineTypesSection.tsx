@@ -1,11 +1,15 @@
 const machines = [
   "Ekskavatör",
+  "Mini Ekskavatör",
   "Yükleyici",
   "Beko-Loder",
-  "Greyder",
-  "Silindir",
-  "Forklift",
   "Dozer",
+  "Greyder",
+  "Silindir / Kompaktör",
+  "Forklift",
+  "Telehandler",
+  "Paletli Vinç",
+  "Finişer",
 ];
 
 export default function MachineTypesSection() {

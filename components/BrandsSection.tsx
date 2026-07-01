@@ -1,5 +1,6 @@
 const brands = [
-  "CAT", "Komatsu", "Volvo", "JCB", "Hitachi", "Hidromek", "New Holland", "Case",
+  "CAT", "Komatsu", "Volvo", "JCB", "Hitachi", "Hidromek",
+  "Liebherr", "Doosan", "Hyundai", "Case", "New Holland", "Bobcat", "Yanmar",
 ];
 
 export default function BrandsSection() {

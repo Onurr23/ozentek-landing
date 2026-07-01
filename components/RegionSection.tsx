@@ -1,8 +1,13 @@
 const regions = [
-  "Kahramankazan",
-  "Sincan",
-  "Organize Sanayi Bölgeleri",
-  "Şantiyeler",
+  "Kahramankazan (Kazan)",
+  "Sincan OSB",
+  "OSTİM",
+  "İvedik OSB",
+  "Etimesgut",
+  "Polatlı",
+  "Haymana",
+  "Çubuk",
+  "Tüm Ankara Şantiyeleri",
 ];
 
 export default function RegionSection() {
@@ -37,7 +42,7 @@ export default function RegionSection() {
             margin: "12px 0 12px",
           }}
         >
-          Ankara ve Çevresine Hızlı Ulaşım
+          Atölyemiz Kazan&apos;da, Servisimiz Ankara&apos;nın Her Yerinde
         </h2>
         <p
           style={{
@@ -46,7 +51,7 @@ export default function RegionSection() {
             margin: "0 0 24px",
           }}
         >
-          Ankara ve çevresi — Kahramankazan, Sincan, organize sanayi bölgeleri ve şantiyeler.
+          Kazan&apos;dan Ankara&apos;nın dört bir yanına saha servisi veriyoruz. Şantiye, OSB, arazi ya da yol üstü — fark etmez, ekibimiz geliyor.
         </p>
         <div style={{ display: "flex", flexWrap: "wrap", gap: 10, justifyContent: "center" }}>
           {regions.map((r) => (

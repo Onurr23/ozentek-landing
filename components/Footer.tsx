@@ -38,7 +38,7 @@ export default function Footer() {
               maxWidth: 260,
             }}
           >
-            İş makineleri tamiri, bakımı ve onarımı — Ankara ve çevresinde saha servisiyle yanınızdayız.
+            Kazan&apos;dan Ankara&apos;ya iş makinesi tamir, bakım ve saha servisi. Makineniz çalışırken işiniz yürür.
           </p>
         </div>
 

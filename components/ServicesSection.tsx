@@ -1,7 +1,7 @@
 const services = [
   {
     title: "Tamir & Onarım",
-    desc: "Motor, şanzıman ve tüm aksamlarda uzman onarım.",
+    desc: "Motor bloku, silindir kapağı, piston, biyel — her türlü iç aksam tamiri atölyemizde yapılır.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#141414" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94z" />
@@ -10,7 +10,7 @@ const services = [
   },
   {
     title: "Periyodik Bakım",
-    desc: "Yağ, filtre ve kontrolle arızadan önce koruma.",
+    desc: "Yağ değişimi, filtre seti, soğutma sistemi ve palet kontrolü — düzenli bakımla büyük arızalar önlenir.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#141414" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <path d="M12 2s7 7.58 7 12a7 7 0 0 1-14 0c0-4.42 7-12 7-12z" />
@@ -19,7 +19,7 @@ const services = [
   },
   {
     title: "Arıza Tespiti",
-    desc: "Dijital diagnostikle hızlı ve kesin teşhis.",
+    desc: "Elektronik diagnostik ekipmanlarıyla elektrik, motor ve hidrolik arızaları kısa sürede kesin olarak tespit edilir.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#141414" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <polyline points="22 12 18 12 15 21 9 3 6 12 2 12" />
@@ -28,7 +28,7 @@ const services = [
   },
   {
     title: "Hidrolik Sistem",
-    desc: "Pompa, valf ve silindir tamir/revizyonu.",
+    desc: "Pompa arızası, valf sıkışması, silindir kaçağı — hidrolik sorunlar yerinde veya atölyede çözülür.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#141414" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <line x1="4" y1="21" x2="4" y2="14" /><line x1="4" y1="10" x2="4" y2="3" />
@@ -41,7 +41,7 @@ const services = [
   },
   {
     title: "Motor & Şanzıman",
-    desc: "Rektifiye, revizyon ve komple değişim.",
+    desc: "Rektifiye, revizyon ve komple değişim. CAT, Komatsu, Volvo ve Hitachi motorlarında deneyimli ekip.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#141414" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <circle cx="12" cy="12" r="3" />
@@ -51,7 +51,7 @@ const services = [
   },
   {
     title: "Saha Servisi",
-    desc: "Makineniz sahada mı? Ekibimiz yerinde müdahale eder.",
+    desc: "Servis aracımızla şantiyenize, tarlaya veya iş yerinize geliyoruz. Makineyi çekmeye gerek yok.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#141414" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <rect x="1" y="3" width="15" height="13" />
@@ -62,7 +62,7 @@ const services = [
   },
   {
     title: "Yedek Parça",
-    desc: "Orijinal ve muadil yedek parça tedariği.",
+    desc: "CAT, Komatsu, Hitachi, JCB ve diğer markalar için orijinal ve kaliteli muadil parça temin edilir.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#141414" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" />
@@ -96,7 +96,7 @@ export default function ServicesSection() {
             Uçtan Uca İş Makinesi Servisi
           </h2>
           <p style={{ color: "#5B5B57", font: "400 16px/1.6 'Barlow', sans-serif", margin: 0 }}>
-            Arızadan bakıma, saha servisinden yedek parçaya kadar tek adres.
+            Arızadan bakıma, saha servisinden yedek parçaya — Kazan&apos;da tek adres.
           </p>
         </div>
 

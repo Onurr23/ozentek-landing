@@ -1,7 +1,7 @@
 const reasons = [
   {
     title: "Hızlı Müdahale",
-    desc: "Arama sonrası kısa sürede planlama ve müdahale.",
+    desc: "Arama sonrası en kısa sürede sahaya çıkıyoruz. Makineniz beklemez, biz de beklettirmeyiz.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#FFCD11" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2" />
@@ -10,7 +10,7 @@ const reasons = [
   },
   {
     title: "Yerinde Saha Servisi",
-    desc: "Makineniz sahada kalsın, ekibimiz yanınıza gelsin.",
+    desc: "Servis aracımızla şantiyenize, tarlaya veya iş yerinize geliyoruz. Nakliye masrafı ve bekleme yok.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#FFCD11" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <rect x="1" y="3" width="15" height="13" />
@@ -21,7 +21,7 @@ const reasons = [
   },
   {
     title: "Garantili İşçilik",
-    desc: "Yaptığımız her işte garanti güvencesi.",
+    desc: "Her tamir ve bakım işimiz işçilik garantisi kapsamındadır. Aynı arıza tekrarlarsa tekrar geliyoruz.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#FFCD11" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
@@ -30,7 +30,7 @@ const reasons = [
   },
   {
     title: "Şeffaf Fiyatlandırma",
-    desc: "Netlik önce: iş öncesi fiyat bilgisi.",
+    desc: "İşe başlamadan önce fiyat veriyoruz. Sürpriz fatura yok, söz verdiğimiz fiyatla çıkıyoruz.",
     icon: (
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#FFCD11" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <path d="M20.59 13.41L11 22.83a2 2 0 0 1-2.83 0L2.41 17a2 2 0 0 1 0-2.83L12 5h8a2 2 0 0 1 2 2v6.41a2 2 0 0 1-.59 1.41z" />

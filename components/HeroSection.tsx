@@ -56,9 +56,9 @@ export default function HeroSection() {
             margin: 0,
           }}
         >
-          Ekskavatör, yükleyici ve tüm iş makinelerinizde arıza tespiti,
-          periyodik bakım ve yerinde saha servisi. Hızlı çözüm, garantili
-          işçilik.
+          Ekskavatör, kepçe, dozer, yükleyici — Kazan&apos;da ve Ankara
+          çevresinde makinenizin yanına geliyoruz. Arıza mı var? Sahada
+          çözüyoruz.
         </p>
 
         {/* CTA buttons */}
