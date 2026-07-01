@@ -46,7 +46,7 @@ export default function ContactSection() {
           {/* Left: contact cards + map */}
           <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
             <a
-              href="tel:+905550000000"
+              href="tel:+905434721898"
               style={{
                 display: "flex",
                 alignItems: "center",
@@ -83,13 +83,13 @@ export default function ContactSection() {
                   Telefon — Tıkla, Ara
                 </div>
                 <div style={{ font: "700 20px/1 'Oswald', sans-serif" }}>
-                  0555 000 00 00
+                  0543 472 18 98
                 </div>
               </div>
             </a>
 
             <a
-              href="https://wa.me/905550000000?text=Merhaba%2C%20Ozentek%20Guc%20Sistemleri%2C%20is%20makinem%20icin%20bilgi%20almak%20istiyorum."
+              href="https://wa.me/905434721898?text=Merhaba%2C%20Ozentek%20Guc%20Sistemleri%2C%20is%20makinem%20icin%20bilgi%20almak%20istiyorum."
               style={{
                 display: "flex",
                 alignItems: "center",
@@ -167,7 +167,7 @@ export default function ContactSection() {
                   Adres
                 </div>
                 <div style={{ font: "600 17px/1.3 'Oswald', sans-serif", color: "#141414" }}>
-                  Kahramankazan, Ankara
+                  Saray, 1. Cd. no:20, 06980 Kahramankazan/Ankara
                 </div>
               </div>
             </div>
@@ -214,7 +214,7 @@ export default function ContactSection() {
 
             <iframe
               title="Özentek Güç Sistemleri konum haritası"
-              src="https://www.google.com/maps?q=Kahramankazan,+Ankara&output=embed"
+              src="https://www.google.com/maps?q=Saray,+1.+Cd.+no:20,+06980+Kahramankazan+Ankara&output=embed"
               style={{
                 width: "100%",
                 height: 220,

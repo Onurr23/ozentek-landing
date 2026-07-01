@@ -15,7 +15,7 @@ export default function StickyCtaBar() {
         }}
       >
         <a
-          href="tel:+905550000000"
+          href="tel:+905434721898"
           style={{
             flex: 1,
             display: "flex",
@@ -35,7 +35,7 @@ export default function StickyCtaBar() {
           Ara
         </a>
         <a
-          href="https://wa.me/905550000000?text=Merhaba%2C%20Ozentek%20Guc%20Sistemleri%2C%20is%20makinem%20icin%20bilgi%20almak%20istiyorum."
+          href="https://wa.me/905434721898?text=Merhaba%2C%20Ozentek%20Guc%20Sistemleri%2C%20is%20makinem%20icin%20bilgi%20almak%20istiyorum."
           style={{
             flex: 1,
             display: "flex",

@@ -42,11 +42,12 @@ export default function Header() {
           <Image
             src="/ozentek-logo-cropped.png"
             alt="Özentek Güç Sistemleri logosu"
-            width={120}
+            width={36}
             height={44}
             style={{
               height: 44,
               width: "auto",
+              maxWidth: 120,
               background: "#fff",
               padding: 3,
               borderRadius: 3,
@@ -83,7 +84,7 @@ export default function Header() {
 
         <div style={{ display: "flex", alignItems: "center", gap: 10, marginLeft: "auto" }}>
           <a
-            href="tel:+905550000000"
+            href="tel:+905434721898"
             className="nav-phone-desktop"
             style={{
               display: "none",
@@ -97,11 +98,11 @@ export default function Header() {
             }}
           >
             <PhoneIcon color="#FFCD11" size={18} />
-            0555 000 00 00
+            0543 472 18 98
           </a>
 
           <a
-            href="tel:+905550000000"
+            href="tel:+905434721898"
             className="nav-teklif-desktop"
             style={{
               display: "none",
@@ -178,7 +179,7 @@ export default function Header() {
             </a>
           ))}
           <a
-            href="tel:+905550000000"
+            href="tel:+905434721898"
             style={{
               marginTop: 14,
               background: "#FFCD11",
@@ -191,10 +192,10 @@ export default function Header() {
               textDecoration: "none",
             }}
           >
-            Hemen Ara — 0555 000 00 00
+            Hemen Ara — 0543 472 18 98
           </a>
           <a
-            href="https://wa.me/905550000000?text=Merhaba%2C%20Ozentek%20Guc%20Sistemleri%2C%20is%20makinem%20icin%20bilgi%20almak%20istiyorum."
+            href="https://wa.me/905434721898?text=Merhaba%2C%20Ozentek%20Guc%20Sistemleri%2C%20is%20makinem%20icin%20bilgi%20almak%20istiyorum."
             style={{
               marginTop: 10,
               border: "2px solid #fff",

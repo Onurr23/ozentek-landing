@@ -28,7 +28,7 @@ export default function ContactForm() {
       .filter(Boolean)
       .join("\n");
     window.open(
-      `https://wa.me/905550000000?text=${encodeURIComponent(lines)}`,
+      `https://wa.me/905434721898?text=${encodeURIComponent(lines)}`,
       "_blank"
     );
   };
