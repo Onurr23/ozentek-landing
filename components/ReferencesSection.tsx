@@ -1,6 +1,7 @@
 import Image from "next/image";
 
-const photos = [null, null, null, null, null, null];
+type Photo = { src: string; alt: string } | null;
+const photos: Photo[] = [null, null, null, null, null, null];
 
 export default function ReferencesSection() {
   return (
