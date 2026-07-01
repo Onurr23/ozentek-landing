@@ -24,7 +24,7 @@ export default function Footer() {
         {/* Brand */}
         <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
           <Image
-            src="/ozentek-logo-cropped.png"
+            src="/ozentek-logo-transparent.png"
             alt="Özentek Güç Sistemleri"
             width={80}
             height={80}

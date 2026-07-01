@@ -40,7 +40,7 @@ export default function Header() {
           }}
         >
           <Image
-            src="/ozentek-logo-cropped.png"
+            src="/ozentek-logo-transparent.png"
             alt="Özentek Güç Sistemleri logosu"
             width={36}
             height={44}
@@ -48,9 +48,6 @@ export default function Header() {
               height: 44,
               width: "auto",
               maxWidth: 120,
-              background: "#fff",
-              padding: 3,
-              borderRadius: 3,
             }}
           />
         </Link>
